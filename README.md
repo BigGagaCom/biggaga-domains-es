@@ -34,7 +34,7 @@ Este repositorio puede usarse para:
 
 Para consultas de dominios u oportunidades de asociación: **domains@biggaga.com**
 
-## 🌍 Explore BigGaga Domains in Other Languages
+## 🌍 Explora los dominios de BigGaga en otros idiomas
 
 - [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
 - [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
