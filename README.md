@@ -44,3 +44,12 @@ Para consultas de dominios u oportunidades de asociación: **domains@biggaga.com
 - [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
 - [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
 
+
+## 🌍 Page Links
+
+**Repositorio:** https://github.com/BigGagaCom/biggaga-domains-es  
+**Sitio web:** https://biggagacom.github.io/biggaga-domains-es/  
+
+- [Archivo CSV](https://biggagacom.github.io/biggaga-domains-es/domains_es.csv)  
+- [Archivo JSON](https://biggagacom.github.io/biggaga-domains-es/domains_es.json)  
+- [Fuente RSS](https://biggagacom.github.io/biggaga-domains-es/biggaga-domains-full-es.rss.xml)  
